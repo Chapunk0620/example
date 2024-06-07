@@ -11,6 +11,6 @@
         <a href="/contact">Contact</a>
         <a href="/about">About</a>
     </nav>
-    <h1>Home Page</h1>
+    <?php echo $slot?>
 </body>
 </html>
